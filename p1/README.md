@@ -1,4 +1,4 @@
-
+zz
 # BestBuy Web Application Automated Testing
 
 This project focuses on automating the testing of the Best Buy web application using Selenium with Java, TestNG, and Maven Build. The test automation framework is developed following the Page Object Model (POM) architecture, ensuring modular and maintainable code. The integration of Selenium streamlines the automation process for any application.
@@ -27,7 +27,7 @@ This project focuses on automating the testing of the Best Buy web application u
 Follow these steps to clone the repository and execute the tests:
 
 ```bash
-git clone https://github.com/BASILAHAMED/BestBuyTest.git
+git clone https:https://github.com/rojadhilip/project-1
 cd Project
 ```
 
